@@ -1,0 +1,12 @@
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\bin\Debug\net5.0\simple_demo.Module.deps.json
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\bin\Debug\net5.0\simple_demo.Module.dll
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\bin\Debug\net5.0\ref\simple_demo.Module.dll
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\bin\Debug\net5.0\simple_demo.Module.pdb
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\obj\Debug\net5.0\simple_demo.Module.csproj.AssemblyReference.cache
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\obj\Debug\net5.0\simple_demo.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\obj\Debug\net5.0\simple_demo.Module.AssemblyInfoInputs.cache
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\obj\Debug\net5.0\simple_demo.Module.AssemblyInfo.cs
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\obj\Debug\net5.0\simple_demo.Module.csproj.CoreCompileInputs.cache
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\obj\Debug\net5.0\simple_demo.Module.dll
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\obj\Debug\net5.0\ref\simple_demo.Module.dll
+C:\Users\OP.145966\source\repos\simple-demo\simple_demo.Module\obj\Debug\net5.0\simple_demo.Module.pdb
